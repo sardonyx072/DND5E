@@ -1,0 +1,54 @@
+<feats origin="PHB,UA">
+	<feat name="Actor" 					origin="PHB"></feat>
+	<feat name="Alchemist" 				origin="UA"></feat>
+	<feat name="Alert" 					origin="PHB"></feat>
+	<feat name="Athlete" 				origin="PHB"></feat>
+	<feat name="Blade Mastery" 			origin="UA"></feat>
+	<feat name="Burglar" 				origin="UA"></feat>
+	<feat name="Charger" 				origin="PHB"></feat>
+	<feat name="Crossbow Expert" 		origin="PHB"></feat>
+	<feat name="Defensive Duelist" 		origin="PHB"></feat>
+	<feat name="Dragonmark" 			origin="UA"></feat>
+	<feat name="Dual Wielder" 			origin="PHB"></feat>
+	<feat name="Dungeon Delver" 		origin="PHB"></feat>
+	<feat name="Durable" 				origin="PHB"></feat>
+	<feat name="Elemental Adept" 		origin="PHB"></feat>
+	<feat name="Fell Handed" 			origin="UA"></feat>
+	<feat name="Flail Mastery" 			origin="UA"></feat>
+	<feat name="Gourmand" 				origin="UA"></feat>
+	<feat name="Grappler" 				origin="PHB"></feat>
+	<feat name="Great Weapon Master" 	origin="PHB"></feat>
+	<feat name="Healer" 				origin="PHB"></feat>
+	<feat name="Heavily Armored" 		origin="PHB"></feat>
+	<feat name="Heavy Armor Master" 	origin="PHB"></feat>
+	<feat name="Inspiring Leader" 		origin="PHB"></feat>
+	<feat name="Keen Mind" 				origin="PHB"></feat>
+	<feat name="Lightly Armored" 		origin="PHB"></feat>
+	<feat name="Linguist" 				origin="PHB"></feat>
+	<feat name="Lucky" 					origin="PHB"></feat>
+	<feat name="Mage Slayer" 			origin="PHB"></feat>
+	<feat name="Magic Initiate" 		origin="PHB"></feat>
+	<feat name="Martial Adept" 			origin="PHB"></feat>
+	<feat name="Master of Disguise" 	origin="UA"></feat>
+	<feat name="Medium Armor Master" 	origin="PHB"></feat>
+	<feat name="Mobile" 				origin="PHB"></feat>
+	<feat name="Moderately Armored" 	origin="PHB"></feat>
+	<feat name="Mounted Combatant" 		origin="PHB"></feat>
+	<feat name="Observant" 				origin="PHB"></feat>
+	<feat name="Polearm Master" 		origin="PHB"></feat>
+	<feat name="Reslilient" 			origin="PHB"></feat>
+	<feat name="Ritual Caster" 			origin="PHB"></feat>
+	<feat name="Savage Attacker" 		origin="PHB"></feat>
+	<feat name="Sentinel" 				origin="PHB"></feat>
+	<feat name="Sharpshooter" 			origin="PHB"></feat>
+	<feat name="Shield Master" 			origin="PHB"></feat>
+	<feat name="Skilled" 				origin="PHB"></feat>
+	<feat name="Skulker" 				origin="PHB"></feat>
+	<feat name="Spear Mastery" 			origin="UA"></feat>
+	<feat name="Spell Sniper" 			origin="PHB"></feat>
+	<feat name="Tavern Brawler" 		origin="PHB"></feat>
+	<feat name="Tough" 					origin="PHB"></feat>
+	<feat name="War Caster" 			origin="PHB"></feat>
+	<feat name="Warhammer Master" 		origin="UA"></feat>
+	<feat name="Weapon Master" 			origin="PHB"></feat>
+</feats>

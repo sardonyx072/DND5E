@@ -1,0 +1,335 @@
+<classes origin="PHB,DMG,SCAG,UA">
+	<class origin="PHB,SCAG,UA">
+		<name>Barbarian</name>
+		<subclasses>
+			<subclass>
+				<name>Path of the Ancestral Guardian</name>
+			</subclass>
+			<subclass>
+				<name>Path of the Battlerager</name>
+			</subclass>
+			<subclass>
+				<name>Path of the Berserker</name>
+			</subclass>
+			<subclass>
+				<name>Path of the Storm Herald</name>
+			</subclass>
+			<subclass>
+				<name>Path of the Totem Warrior</name>
+			</subclass>
+			<subclass>
+				<name>Path of the Zealot</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,UA">
+		<name>Bard</name>
+		<subclasses>
+			<subclass origin="UA">
+				<name>College of Glamour</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>College of Lore</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>College of Satire</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>College of Swords</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>College of Valor</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>College of Whispers</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,DMG,UA">
+		<name>Cleric</name>
+		<subclasses>
+			<subclass origin="UA">
+				<name>City Domain</name>
+			</subclass>
+			<subclass origin="DMG">
+				<name>Death Domain</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Forge Domain</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Grave Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Knowledge Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Life Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Light Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Nature Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Protection Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Tempest Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Trickery Domain</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>War Domain</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,SCAG,UA">
+		<name>Druid</name>
+		<subclasses>
+			<subclass origin="UA">
+				<name>Circle of Dreams</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Circle of the Land</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Circle of the Moon</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Circle of the Shepherd</name>
+			</subclass>
+			<subclass origin="SCAG">
+				<name>Circle of the Sun</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Circle of Twilight</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,UA">
+		<name>Fighter</name>
+		<subclasses>
+			<subclass origin="UA">
+				<name>Arcane Archer Archetype</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Battle Master Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Cavalier Archetype</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Champion Archetype</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Eldritch Knight Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Knight Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Monster Hunter Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Samurai Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Scout Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Sharpshooter Archetype</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,SCAG">
+		<name>Monk</name>
+		<subclasses>
+			<subclass origin="PHB">
+				<name>Way of the Four Elements</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Way of the Open Palm</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Way of the Shadow</name>
+			</subclass>
+			<subclass origin="SCAG">
+				<name>Way of the Sun Soul</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="UA">
+		<name>Mystic</name>
+		<subclasses>
+			<subclass>
+				<name>Order of the Awakened</name>
+			</subclass>
+			<subclass>
+				<name>Order of the Immortal</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,DMG,UA">
+		<name>Paladin</name>
+		<subclasses>
+			<subclass origin="DMG">
+				<name>Oathbreaker</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Oath of the Ancients</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Oath of the Crown</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Oath of Devotion</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Oath of Vengeance</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,UA">
+		<name>Ranger</name>
+		<subclasses>
+			<subclass origin="PHB">
+				<name>Beast Master Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Deep Stalker Archetype</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Hunter Archetype</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="UA">
+		<name>Variant Ranger</name>
+		<subclasses>
+			<subclass>
+				<name>Guardian Archetype</name>
+			</subclass>
+			<subclass>
+				<name>Seeker Archetype</name>
+			</subclass>
+			<subclass>
+				<name>Stalker Archetype</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="UA">
+		<name>Revised Ranger</name>
+		<subclasses>
+			<subclass>
+				<name>Beast Conclave</name>
+			</subclass>
+			<subclass>
+				<name>Deep Stalker Conclave</name>
+			</subclass>
+			<subclass>
+				<name>Hunter Conclave</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,SCAG">
+		<name>Rogue</name>
+		<subclasses>
+			<subclass origin="PHB">
+				<name>Arcane Trickster Archetype</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Assassin Archetype</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Inquisitive Archetype</name>
+			</subclass>
+			<subclass origin="SCAG">
+				<name>Swashbuckler Archetype</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Thief Archetype</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,UA">
+		<name>Sorcerer</name>
+		<subclasses>
+			<subclass origin="PHB">
+				<name>Draconic Bloodline Origin</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Shadow Origin</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Storm Origin</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>Wild Magic Origin</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,UA">
+		<name>Warlock</name>
+		<subclasses>
+			<subclass origin="PHB">
+				<name>The Archfey Patron</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>The Fiend Patron</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>The Ghost in the Machine Patron</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>The Great Old Ones Patron</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>The Seeker Patron</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>The Undying Light Patron</name>
+			</subclass>
+		</subclasses>
+	</class>
+	<class origin="PHB,SCAG,UA">
+		<name>Wizard</name>
+		<subclasses>
+			<subclass origin="UA">
+				<name>School of Artificing</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>School of Conjuration</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>School of Divination</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>School of Enchantment</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>School of Evocation</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>School of Illusion</name>
+			</subclass>
+			<subclass origin="PHB">
+				<name>School of Necromancy</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>School of Theurgy</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>School of Technomancy</name>
+			</subclass>
+			<subclass origin=PHB"">
+				<name>School of Transmutation</name>
+			</subclass>
+			<subclass origin="SCAG">
+				<name>School of Spellswords</name>
+			</subclass>
+		</subclasses>
+	</class>
+</classes>

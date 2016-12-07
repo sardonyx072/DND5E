@@ -1,0 +1,224 @@
+<races origin="PHB,DMG,SCAG,VGTM,UA">
+	<race origin="SCAG">
+		<name>Aaracockra</name>
+	</race>
+	<race origin="VGTM">
+		<name>Aasimar</name>
+		<subraces>
+			<subrace>
+				<name>Fallen</name>
+			</subrace>
+			<subrace>
+				<name>Protector</name>
+			</subrace>
+			<subrace>
+				<name>Scourge</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="VGTM">
+		<name>Bugbear</name>
+	</race>
+	<race origin="UA">
+		<name>Changeling</name>
+	</race>
+	<race origin="UA">
+		<name>Shifter</name>
+		<subraces>
+			<subrace>
+				<name>Beasthide</name>
+			</subrace>
+			<subrace>
+				<name>Cliffwalk</name>
+			</subrace>
+			<subrace>
+				<name>Longstride</name>
+			</subrace>
+			<subrace>
+				<name>Longtooth</name>
+			</subrace>
+			<subrace>
+				<name>Razorclaw</name>
+			</subrace>
+			<subrace>
+				<name>Wildhunt</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="PHB">
+		<name>Dragonborn</name>
+		<subraces>
+			<subrace>
+				<name>Black</name>
+			</subrace>
+			<subrace>
+				<name>Blue</name>
+			</subrace>
+			<subrace>
+				<name>Brass</name>
+			</subrace>
+			<subrace>
+				<name>Bronze</name>
+			</subrace>
+			<subrace>
+				<name>Copper</name>
+			</subrace>
+			<subrace>
+				<name>Gold</name>
+			</subrace>
+			<subrace>
+				<name>Green</name>
+			</subrace>
+			<subrace>
+				<name>Red</name>
+			</subrace>
+			<subrace>
+				<name>Silver</name>
+			</subrace>
+			<subrace>
+				<name>White</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="PHB,SCAG">
+		<name>Dwarf</name>
+		<subraces>
+			<subrace origin="SCAG">
+				<name>Duergar</name>
+			</subrace>
+			<subrace origin="PHB">
+				<name>Hill</name>
+			</subrace>
+			<subrace origin="SCAG">
+				<name>Gold</name>
+			</subrace>
+			<subrace origin="PHB">
+				<name>Mountain</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="PHB,SCAG">
+		<name>Elf</name>
+		<subraces>
+			<subrace origin="PHB">
+				<name>Drow</name>
+			</subrace>
+			<subrace origin="PHB">
+				<name>High</name>
+			</subrace>
+			<subrace origin="SCAG">
+				<name>Sun</name>
+			</subrace>
+			<subrace origin="PHB">
+				<name>Wood</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="VGTM">
+		<name>Firbolg</name>
+	</race>
+	<race origin="VGTM">
+		<name>Genasi</name>
+		<subraces>
+			<subrace>
+				<name>Air</name>
+			</subrace>
+			<subrace>
+				<name>Earth</name>
+			</subrace>
+			<subrace>
+				<name>Fire</name>
+			</subrace>
+			<subrace>
+				<name>Water</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="PHB,SCAG">
+		<name>Gnome</name>
+		<subraces>
+			<subrace>
+				<name>Forest</name>
+			</subrace>
+			<subrace>
+				<name>Rock</name>
+			</subrace>
+			<subrace>
+				<name>Svirfneblin</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="VGTM">
+		<name>Goblin</name>
+	</race>
+	<race origin="VGTM">
+		<name>Goliath</name>
+	</race>
+	<race origin="PHB">
+		<name>Half Elf</name>
+	</race>
+	<race origin="PHB">
+		<name>Halfling</name>
+		<subraces>
+			<subrace>
+				<name>Lightfoot</name>
+			</subrace>
+			<subrace>
+				<name>Stout</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="PHB">
+		<name>Half Orc</name>
+	</race>
+	<race origin="VGTM">
+		<name>Hobgoblin</name>
+	</race>
+	<race origin="PHB">
+		<name>Human</name>
+	</race>
+	<race origin="PHB">
+		<name>Variant Human</name>
+	</race>
+	<race origin="VGTM">
+		<name>Kenku</name>
+	</race>
+	<race origin="VGTM">
+		<name>Kobold</name>
+	</race>
+	<race origin="UA">
+		<name>Minotaur</name>
+	</race>
+	<race origin="VGTM">
+		<name>Orc</name>
+	</race>
+	<race origin="UA">
+		<name>Revenant</name>
+	</race>
+	<race origin="VGTM">
+		<name>Tabaxi</name>
+	</race>
+	<race origin="PHB">
+		<name>Tiefling</name>
+	</race>
+	<race origin="UA">
+		<name>Variant Tiefling</name>
+		<subraces>
+			<subrace>
+				<name>Abyssal</name>
+			</subrace>
+			<subrace>
+				<name>Infernal</name>
+			</subrace>
+		</subraces>
+	</race>
+	<race origin="VGTM">
+		<name>Triton</name>
+	</race>
+	<race origin="UA">
+		<name>Warforged</name>
+	</race>
+	<race origin="VGTM">
+		<name>Yuan-Ti Pureblood</name>
+	</race>
+</races>

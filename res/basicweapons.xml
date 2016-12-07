@@ -1,0 +1,19 @@
+<basicweapons>
+	<basicweapon>
+		<name></name>
+		<class></class>
+		<type></type>
+		<damage>
+			<damagetype></damagetype>
+			<damagedice></damagedice>
+		</damage>
+		<cost>
+			<amount></amount>
+			<moneytype></moneytype>
+		</cost>
+		<weight></weight>
+		<properties>
+			<property></property>
+		</properties>
+	</basicweapon>
+</basicweapons>
