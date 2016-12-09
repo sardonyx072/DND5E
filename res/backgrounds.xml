@@ -1,39 +1,56 @@
 <backgrounds>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
-	<background name="" origin=""></background>
+	<background origin="PHB">
+		<name>Acolyte</name>
+	</background>
+	<background origin="PHB">
+		<name>Charlatan</name>
+	</background>
+	<background origin="PHB">
+		<name>Criminal</name>
+	</background>
+	<background origin="PHB">
+		<name>Entertainer</name>
+	</background>
+	<background origin="PHB">
+		<name>Folk Hero</name>
+	</background>
+	<background origin="PHB">
+		<name>Gladiator</name>
+	</background>
+	<background origin="PHB">
+		<name>Guild Artisan</name>
+	</background>
+	<background origin="PHB">
+		<name>Guild Merchant</name>
+	</background>
+	<background origin="PHB">
+		<name>Hermit</name>
+	</background>
+	<background origin="PHB">
+		<name>Knight</name>
+	</background>
+	<background origin="PHB">
+		<name>Noble</name>
+	</background>
+	<background origin="PHB">
+		<name>Outlander</name>
+	</background>
+	<background origin="PHB">
+		<name>Pirate</name>
+	</background>
+	<background origin="PHB">
+		<name>Sage</name>
+	</background>
+	<background origin="PHB">
+		<name>Sailor</name>
+	</background>
+	<background origin="PHB">
+		<name>Soldier</name>
+	</background>
+	<background origin="PHB">
+		<name>Spy</name>
+	</background>
+	<background origin="PHB">
+		<name>Urchin</name>
+	</background>
 </backgrounds>
