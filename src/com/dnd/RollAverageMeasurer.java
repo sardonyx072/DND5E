@@ -13,6 +13,7 @@ public class RollAverageMeasurer {
 		double movingMean1 = 0, movingMean2 = 0;
 		//final DecimalFormat format = new DecimalFormat("0.00");
 		for (int i = 0; i < 100000; i++) {
+			//mean = (roll + (rollnum*mean))/numrolls
 			movingMean1 = ((d1.roll()) + (i*movingMean1))/(i+1);
 			movingMean2 = ((d2.roll()) + (i*movingMean2))/(i+1);
 			//System.out.println("roll " + (i+1) + ": " + d.getValue() + "\t(mean=" + format.format(movingMean) + ")");

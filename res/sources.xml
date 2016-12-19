@@ -1,0 +1,106 @@
+<sources>
+	<source>
+		<name>Player's Handbook</name>
+		<abbrev>PHB</abbrev>
+	</source>
+	<source>
+		<name>Dungeon Master's Guide</name>
+		<abbrev>DMG</abbrev>
+	</source>
+	<source>
+		<name>Monster Manual</name>
+		<abbrev>MM</abbrev>
+	</source>
+	<source>
+		<name>Sword Coast Adventure's Guide</name>
+		<abbrev>SCAG</abbrev>
+	</source>
+	<source>
+		<name>Volo's Guide to Monsters</name>
+		<abbrev>VGTM</abbrev>
+	</source>
+	<source>
+		<name>Ghosts of Dragonspear Castle</name>
+		<abbrev>GODC</abbrev>
+	</source>
+	<source>
+		<name>Murder in Baldur's Gate</name>
+		<abbrev>MIBG</abbrev>
+	</source>
+	<source>
+		<name>Legacy of the Crystal Shard</name>
+		<abbrev>LOTCS</abbrev>
+	</source>
+	<source>
+		<name>Hoard of the Dragon Queen</name>
+		<abbrev>HOTDQ</abbrev>
+	</source>
+	<source>
+		<name>The Rise of Tiamat</name>
+		<abbrev>TROT</abbrev>
+	</source>
+	<source>
+		<name>Elemental Evil Player's Companion</name>
+		<abbrev>EEPC</abbrev>
+	</source>
+	<source>
+		<name>Princes of the Apocalypse</name>
+		<abbrev>POTA</abbrev>
+	</source>
+	<source>
+		<name>Out of the Abyss</name>
+		<abbrev>OOTA</abbrev>
+	</source>
+	<source>
+		<name>Storm King's Thunder</name>
+		<abbrev>SKT</abbrev>
+	</source>
+	<source>
+		<name>Dungeonology</name>
+		<abbrev>DUNG</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana</name>
+		<abbrev>UA</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana: Eberron</name>
+		<abbrev>UA:E</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana: Bard Colleges</name>
+		<abbrev>UA:BC</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana: Barbarian Primal Paths</name>
+		<abbrev>UA:BPP</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana: Druidic Circles</name>
+		<abbrev>UA:DC</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana: Fighter Archetypes</name>
+		<abbrev>UA:FA</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana: Monk Traditions</name>
+		<abbrev>UA:MT</abbrev>
+	</source>
+	<source>
+		<name>Unearthed Arcana: Paladin Oaths</name>
+		<abbrev>UA:PO</abbrev>
+	</source>
+	<source>
+		<name>Homebrew</name>
+		<abbrev>HB</abbrev>
+	</source>
+	<source>
+		<name>Homebrew: DM's Guild</name>
+		<abbrev>HB:DMG</abbrev>
+	</source>
+	<source>
+		<name>Homebrew: Self</name>
+		<abbrev>HB:S</abbrev>
+	</source>
+</sources>

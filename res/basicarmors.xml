@@ -1,0 +1,263 @@
+<basicarmors>
+	<armor>
+		<name>Breastplate</name>
+		<class>Medium</class>
+		<strreq>0</strreq>
+		<stealthdis>false</stealthdis>
+		<ac type="formula">
+			<base>14</base>
+			<addition>
+				<name>dexmod</name>
+				<upperlimit>2</upperlimit>
+			</addition>
+		</ac>
+		<cost>
+			<amount>400</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>20</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.</description>
+	</armor>
+	<armor>
+		<name>Chain mail</name>
+		<class>Heavy</class>
+		<strreq>13</strreq>
+		<stealthdis>true</stealthdis>
+		<ac type="formula">
+			<base>16</base>
+		</ac>
+		<cost>
+			<amount>75</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>55</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.</description>
+	</armor>
+	<armor>
+		<name>Chain shirt</name>
+		<class>Medium</class>
+		<strreq>0</strreq>
+		<stealthdis>false</stealthdis>
+		<ac type="formula">
+			<base>13</base>
+			<addition>
+				<name>dexmod</name>
+				<upperlimit>2</upperlimit>
+			</addition>
+		</ac>
+		<cost>
+			<amount>50</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>20</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.</description>
+	</armor>
+	<armor>
+		<name>Half plate</name>
+		<class>Medium</class>
+		<strreq>0</strreq>
+		<stealthdis>true</stealthdis>
+		<ac type="formula">
+			<base>15</base>
+			<addition>
+				<name>dexmod</name>
+				<upperlimit>2</upperlimit>
+			</addition>
+		</ac>
+		<cost>
+			<amount>750</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>40</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.</description>
+	</armor>
+	<armor>
+		<name>Hide</name>
+		<class>Medium</class>
+		<strreq>0</strreq>
+		<stealthdis>false</stealthdis>
+		<ac type="formula">
+			<base>12</base>
+			<addition>
+				<name>dexmod</name>
+				<upperlimit>2</upperlimit>
+			</addition>
+		</ac>
+		<cost>
+			<amount>10</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>12</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.</description>
+	</armor>
+	<armor>
+		<name>Leather</name>
+		<class>Light</class>
+		<strreq>0</strreq>
+		<stealthdis>false</stealthdis>
+		<ac type="formula">
+			<base>11</base>
+			<addition>
+				<name>dexmod</name>
+			</addition>
+		</ac>
+		<cost>
+			<amount>10</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>10</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>The breatplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</description>
+	</armor>
+	<armor>
+		<name>Padded</name>
+		<class>Light</class>
+		<strreq>0</strreq>
+		<stealthdis>true</stealthdis>
+		<ac type="formula">
+			<base>11</base>
+			<addition>
+				<name>dexmod</name>
+			</addition>
+		</ac>
+		<cost>
+			<amount>5</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>8</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>Padded armor consists of quilted layers of cloth and batting.</description>
+	</armor>
+	<armor>
+		<name>Plate</name>
+		<class>Heavy</class>
+		<strreq>15</strreq>
+		<stealthdis>true</stealthdis>
+		<ac type="formula">
+			<base>18</base>
+		</ac>
+		<cost>
+			<amount>1500</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>65</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</description>
+	</armor>
+	<armor>
+		<name>Ring mail</name>
+		<class>Heavy</class>
+		<strreq>0</strreq>
+		<stealthdis>true</stealthdis>
+		<ac type="formula">
+			<base>14</base>
+		</ac>
+		<cost>
+			<amount>30</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>40</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.</description>
+	</armor>
+	<armor>
+		<name>Scale mail</name>
+		<class>Medium</class>
+		<strreq>0</strreq>
+		<stealthdis>true</stealthdis>
+		<ac type="formula">
+			<base>14</base>
+			<addition>
+				<name>dexmod</name>
+				<upperlimit>2</upperlimit>
+			</addition>
+		</ac>
+		<cost>
+			<amount>50</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>45</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</description>
+	</armor>
+	<armor>
+		<name>Shield</name>
+		<class>Shield</class>
+		<strreq>0</strreq>
+		<stealthdis>false</stealthdis>
+		<ac type="addition">2</ac>
+		<cost>
+			<amount>10</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>6</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>A simple wood or metal shield.</description>
+	</armor>
+	<armor>
+		<name>Splint</name>
+		<class>Heavy</class>
+		<strreq>15</strreq>
+		<stealthdis>true</stealthdis>
+		<ac type="formula">
+			<base>17</base>
+		</ac>
+		<cost>
+			<amount>200</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>60</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.</description>
+	</armor>
+	<armor>
+		<name>Studded Leather</name>
+		<class>Light</class>
+		<strreq>0</strreq>
+		<stealthdis>false</stealthdis>
+		<ac type="formula">
+			<base>12</base>
+			<addition>
+				<name>dexmod</name>
+			</addition>
+		</ac>
+		<cost>
+			<amount>45</amount>
+			<unit>gp</unit>
+		</cost>
+		<weight>
+			<amount>13</amount>
+			<unit>lbs</unit>
+		</weight>
+		<description>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</description>
+	</armor>
+</basicarmors>

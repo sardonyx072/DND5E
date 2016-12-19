@@ -150,6 +150,9 @@
 			<subclass origin="PHB">
 				<name>Way of the Four Elements</name>
 			</subclass>
+			<subclass origin="UA">
+				<name>Way of the Kensei</name>
+			</subclass>
 			<subclass origin="PHB">
 				<name>Way of the Open Palm</name>
 			</subclass>
@@ -158,6 +161,9 @@
 			</subclass>
 			<subclass origin="SCAG">
 				<name>Way of the Sun Soul</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Way of Tranquility</name>
 			</subclass>
 		</subclasses>
 	</class>
@@ -172,7 +178,7 @@
 			</subclass>
 		</subclasses>
 	</class>
-	<class origin="PHB,DMG,UA">
+	<class origin="PHB,DMG,SCAG,UA">
 		<name>Paladin</name>
 		<subclasses>
 			<subclass origin="DMG">
@@ -182,10 +188,16 @@
 				<name>Oath of the Ancients</name>
 			</subclass>
 			<subclass origin="UA">
+				<name>Oath of Conquest</name>
+			</subclass>
+			<subclass origin="SCAG">
 				<name>Oath of the Crown</name>
 			</subclass>
 			<subclass origin="PHB">
 				<name>Oath of Devotion</name>
+			</subclass>
+			<subclass origin="UA">
+				<name>Oath of Treachery</name>
 			</subclass>
 			<subclass origin="PHB">
 				<name>Oath of Vengeance</name>

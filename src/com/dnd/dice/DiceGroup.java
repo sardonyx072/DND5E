@@ -75,7 +75,7 @@ public class DiceGroup implements Rollable {
 		if (this.dice.size() > 0) {
 			Collections.sort(this.dice, new Comparator<Die>() {
 				public int compare(Die d1, Die d2) {
-					return d1.getValue() - d2.getValue();
+					return d2.getValue() - d1.getValue();
 				}
 			});
 			return this.getValue()-this.dice.get(this.dice.size()-1).getValue();
